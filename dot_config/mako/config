@@ -1,4 +1,4 @@
-font=JetBrains Mono Nerd 14
+font=Hasklig Mono Nerd 14
 sort=-time
 layer=overlay
 anchor=top-right
@@ -9,5 +9,5 @@ default-timeout=5000
 ignore-timeout=1
 border-radius=15
 padding=0,15,25
-border-color=#FFFFFF
-border-size=1
+border-color=#E1B4CE
+border-size=2
