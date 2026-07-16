@@ -1,0 +1,17 @@
+{
+  "layer": "top",
+  "output": "eDP-1",
+  "width": 100,
+  "height": 20,
+  "modules-center": [ "clock" ], 
+  "margin-top": 3,
+  "clock": {
+    "max-lenght": 100,
+  },
+
+
+  "clock": {
+    "format-alt": "{ %H:%M }"
+  }
+  
+}

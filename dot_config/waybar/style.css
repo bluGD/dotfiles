@@ -1,0 +1,9 @@
+* {
+  border: none;
+  border-radius: 15px;
+}
+
+window#waybar {
+  background: #E1B4CE;
+  color: #36283d;
+}
