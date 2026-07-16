@@ -1,0 +1,13 @@
+font=JetBrains Mono Nerd 14
+sort=-time
+layer=overlay
+anchor=top-right
+background-color=#36283d
+width=350
+height=130
+default-timeout=5000
+ignore-timeout=1
+border-radius=15
+padding=0,15,25
+border-color=#FFFFFF
+border-size=1
